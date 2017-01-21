@@ -1,2 +1,2 @@
 # skolprojekt-C
-Projekt för kurs i C på KTH
+Diverse projekt för kurs i C på KTH
